@@ -6,9 +6,9 @@ categories: breakfast, snack
 ---
 
 
-Brother bought a coconut, he bought it for a dime
-His sister had another one, she paid it for a lime
-She put the lime in the coconut, she drank them both up
+1. Brother bought a coconut, he bought it for a dime
+1. His sister had another one, she paid it for a lime
+1. She put the lime in the coconut, she drank them both up
 
 
 
